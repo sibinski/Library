@@ -14,7 +14,7 @@ public class Program
             Console.WriteLine("Please choose an option: \n");
             Console.WriteLine(" - choose 1 to enter book titles for 5 books;\n");
             Console.WriteLine(" - choose 2 to delete a book title for a chosen book;\n");
-            Console.WriteLine(" - choose 3 to display current list of book tiitles\n");
+            Console.WriteLine(" - choose 3 to display current list of book titles\n");
             Console.WriteLine(" - choose 4 to exit program;\n");
 
 
